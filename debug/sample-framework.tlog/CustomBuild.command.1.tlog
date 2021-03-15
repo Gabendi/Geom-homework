@@ -1,0 +1,2 @@
+^E:\SCHOOL\MSC\1ST_SEMESTER\3D_SZAMITOGEPES\HOMEWORK\GEOM-HOMEWORK\DEBUG\MOC_PREDEFS.H.CBT
+cl -Bx"E:\qt\Qt5.14.2\5.14.2\msvc2017_64\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -std:c++14 -E E:\qt\Qt5.14.2\5.14.2\msvc2017_64\mkspecs\features\data\dummy.cpp 2>NUL >debug\moc_predefs.h
