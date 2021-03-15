@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+debug
+models
+release
+
 # Compiled Object files
 *.slo
 *.lo
